@@ -39,7 +39,6 @@ body{
   padding: 20px;
   margin: 20px;
   border: 1px solid white;
-
   
 }
 
@@ -61,5 +60,4 @@ input[type="submit"] {
   padding: 10px 100px;
   border: none;
   cursor: pointer;
-  align-items: center;
 }
