@@ -2,11 +2,16 @@ h1{
   text-align: center;
   font-size: 60px;
   font-family:Arial, Helvetica, sans-serif;
-
 }
 
 h2{
   font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif;
+  color: orange;
+}
+
+.Font{
+  font-size: 20px;
   font-family:Arial, Helvetica, sans-serif;
   color: orange;
 }
@@ -46,7 +51,7 @@ input[type="tel"] {
   font-size: 16px;
   padding: 10px;
   border: 1px solid #ccc;
-  width: 95%;
+  width: 95%;;
 } 
 
 input[type="submit"] {
@@ -58,6 +63,7 @@ input[type="submit"] {
   border: none;
   cursor: pointer;
   width: 95%;
+  transform: translateX(1%);
 }
 .container {
   max-width: 800px;
