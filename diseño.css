@@ -36,10 +36,6 @@ form{
 
 body{
   background-color: #f0f0f0;
-  padding: 20px;
-  margin: 20px;
-  border: 1px solid white;
-  
 }
 
 input[type="text"],
@@ -50,6 +46,7 @@ input[type="tel"] {
   font-size: 16px;
   padding: 10px;
   border: 1px solid;
+  width: 95%;
 } 
 
 input[type="submit"] {
@@ -60,4 +57,18 @@ input[type="submit"] {
   padding: 10px 100px;
   border: none;
   cursor: pointer;
+  width: 95%;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+}
+
+.claseroja {
+  color: red;
 }
