@@ -35,7 +35,7 @@ form{
 }
 
 body{
-  background-color: #f0f0f0;
+  background-color: #f4f4f9;
 }
 
 input[type="text"],
@@ -45,7 +45,7 @@ input[type="tel"] {
   color: black;
   font-size: 16px;
   padding: 10px;
-  border: 1px solid;
+  border: 1px solid #ccc;
   width: 95%;
 } 
 
